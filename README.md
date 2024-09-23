@@ -1,4 +1,4 @@
-```markdown
+markdown
 vue_elementui_ky 安装和使用教程
 
  简介
@@ -22,7 +22,7 @@ git clone https://github.com/chuxians0/vue_elementui_ky.git
 ```bash
 cd vue_elementui_ky
 ```
-3. 安装依赖
+3. 安装依赖(其实我的已经包含无需安装)
 ```bash
 npm install
 ```
@@ -39,7 +39,7 @@ yarn install
 ## 运行项目
 运行以下命令启动开发服务器：
 ```bash
-npm run serve
+npm run deV
 ```
 项目将在浏览器中自动打开，您可以在 `http://localhost:8080` 查看运行结果。
 
