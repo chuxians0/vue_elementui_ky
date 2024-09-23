@@ -14,18 +14,18 @@
 
 ## 安装步骤
 
-### 1. 克隆仓库
+## 1. 克隆仓库
 使用以下命令克隆项目到本地：
 ```bash
 git clone https://github.com/chuxians0/vue_elementui_ky.git
 ```
 
-### 2. 进入项目目录
+## 2. 进入项目目录
 ```bash
 cd vue_elementui_ky
 ```
 
-### 3. 安装依赖
+## 3. 安装依赖
 ```bash
 npm install
 ```
@@ -34,7 +34,7 @@ npm install
 yarn install
 ```
 
-### 4. 包介绍
+## 4. 包介绍
 - **demo2024zh**：这是项目的后端部分，用于连接和操作数据库。确保后端服务正常运行，以便与前端进行数据交互。
 - **vue-element-admin-master**：这是项目的前端部分，用于管理和修改前端界面。在开发过程中，您将主要与该部分进行交互。
 - **demo2023.sql**：这是数据库的 SQL 文件，包含项目所需的数据库表和初始数据。在设置数据库时，您需要导入该文件。
