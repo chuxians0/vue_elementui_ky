@@ -1,31 +1,28 @@
-结合你提供的图片内容和之前的要求，下面是一个完整的教程文档示例：
-
 ```markdown
-# vue_elementui_ky 安装和使用教程
+vue_elementui_ky 安装和使用教程
 
-## 简介
+ 简介
 `vue_elementui_ky` 是一个基于 Vue.js 和 Element UI 构建的项目，旨在为用户提供优雅的前端界面组件。本文将指导您如何安装和运行该项目。
 
-## 先决条件
+ 先决条件
 在开始之前，请确保您的系统已安装以下工具：
 - Git
 - Node.js 和 npm 或 Yarn
 - Vue CLI（可选）
 
-## 安装步骤
+ 安装步骤
 
-## 1. 克隆仓库
+1. 克隆仓库
 使用以下命令克隆项目到本地：
 ```bash
 git clone https://github.com/chuxians0/vue_elementui_ky.git
 ```
 
-## 2. 进入项目目录
+2. 进入项目目录
 ```bash
 cd vue_elementui_ky
 ```
-
-## 3. 安装依赖
+3. 安装依赖
 ```bash
 npm install
 ```
@@ -34,7 +31,7 @@ npm install
 yarn install
 ```
 
-## 4. 包介绍
+4. 包介绍
 - **demo2024zh**：这是项目的后端部分，用于连接和操作数据库。确保后端服务正常运行，以便与前端进行数据交互。
 - **vue-element-admin-master**：这是项目的前端部分，用于管理和修改前端界面。在开发过程中，您将主要与该部分进行交互。
 - **demo2023.sql**：这是数据库的 SQL 文件，包含项目所需的数据库表和初始数据。在设置数据库时，您需要导入该文件。
